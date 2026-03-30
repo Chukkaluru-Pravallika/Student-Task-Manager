@@ -27,6 +27,7 @@ A full-stack task management web application built with React, Node.js, Express,
 - **CSS3** with custom styling and responsive design
 - **Fetch API** for HTTP requests
 - **Date-fns** for date formatting
+- **Javascript** for functionalities
 
 ### Backend
 - **Node.js** runtime environment
